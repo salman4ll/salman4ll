@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a 5th-semester Software Engineering Technology
 About Me
 -------------
 * 🌍  I'm based in Bogor, Indonesia
+* 💼  Profession: Frontend Developer
 * ✉️  You can contact me at [sfarisi0101@gmail.com](mailto:sfarisi0101@gmail.com)
-* 🧠  I'm learning Nextjs, ExpressJs.
 
 Available Projects
 -------------
