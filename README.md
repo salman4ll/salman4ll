@@ -12,7 +12,7 @@ About Me
 -------------
 * 🌍  I'm based in Bogor, Indonesia
 * 💼  Profession: Frontend Developer
-* ✉️  You can contact me at [sfarisi0101@gmail.com](mailto:sfarisi0101@gmail.com)
+* ✉️  You can contact me at [sfarisifs@gmail.com](mailto:sfarisifs@gmail.com)
 
 Available Projects
 -------------
